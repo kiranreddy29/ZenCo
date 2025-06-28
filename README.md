@@ -132,10 +132,10 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/Instructor_Courses.png?raw=true" alt="Landing page" style="width: 300px;"/>
         <br />
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/Instructor-Dashboard.png?raw=true" alt="Landing register" style="width: 300px;"/>
         <br />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -175,10 +175,10 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/Cart.png?raw=true" alt="Landing page" style="width: 200px;"/>
         <br />
       </td>
-         <td align="center">
+         <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/MyCourses.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
-      </td>
+      </td> -->
       <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/CourseDescription.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
@@ -193,10 +193,10 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/CoursesPage.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
       </td>
-           <td align="center">
+           <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/TopCourses.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -205,10 +205,10 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/paymentGateway.png?raw=true" alt="Landing page" style="width: 200px;"/>
         <br />
-      </td>
+      </td> -->
          <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/Cart.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
@@ -223,14 +223,14 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/Footer.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/RatingandReview.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
-      </td>
-           <td align="center">
+      </td> -->
+           <!-- <td align="center">
         <img src="https://github.com/kiranreddy29/ZenCo/blob/main/assets/SubsectionVideo.png?raw=true" alt="Landing register" style="width: 200px;"/>
         <br />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
