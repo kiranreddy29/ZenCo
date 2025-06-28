@@ -20,12 +20,8 @@ export default function Upload({
   const { course } = useSelector((state) => state.course)
   const [selectedFile, setSelectedFile] = useState(null)
   const [previewSource, setPreviewSource] = useState(
-  viewData && typeof viewData === "string"
-    ? viewData
-    : editData && typeof editData === "string"
-    ? editData
-    : ""
-)
+    viewData ? viewData : editData ? editData : ""
+  )
   const inputRef = useRef(null)
 
   const onDrop = (acceptedFiles) => {
