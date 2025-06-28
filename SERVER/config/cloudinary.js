@@ -1,16 +1,15 @@
 const cloudinary = require("cloudinary").v2;
 require("dotenv").config();
-//Cloudinary is being required
 
 exports.cloudinaryConnect = () => {
-    try{
+    try {
         cloudinary.config({
-            // Configuring the Clodinary to upload media
-            cloud_name: process.env.CLOUD_NAME,
-            api_key: process.env.API_KEY,
-            api_secret: process.env.API_SECRET,
+            cloud_name: process.env.CLOUDINARY_NAME,
+            api_key: process.env.CLOUDINARY_API_KEY,
+            api_secret: process.env.CLOUDINARY_API_SECRET,
         });
-    }catch(error){
-        console.log(error);
-    };
-}
+        console.log("✅ Cloudinary connected");
+    } catch (error) {
+        console.log("❌ Cloudinary connection error:", error);
+    }
+};
