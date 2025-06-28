@@ -240,11 +240,11 @@ ZenCo is a comprehensive educational platform aimed at providing a seamless expe
 
 ## DESCRIPTION
 
-The StudyNotion project is designed to streamline the educational process. It allows users to access a variety of educational materials, collaborate on projects, and interact with educators, enhancing the learning experience. StudyNotion employs a monolithic architecture and leverages a tech stack involving React.js, Node.js, Express.js, MongoDB, Cloudinary, and Tailwind CSS.
+The ZenCo project is designed to streamline the educational process. It allows users to access a variety of educational materials, collaborate on projects, and interact with educators, enhancing the learning experience. ZenCo employs a monolithic architecture and leverages a tech stack involving React.js, Node.js, Express.js, MongoDB, Cloudinary, and Tailwind CSS.
 
 ## TECHNOLOGY STACK
 
-StudyNotion is built using the following technologies:
+ZenCo is built using the following technologies:
 
 ### FRONTEND
 
@@ -266,16 +266,16 @@ StudyNotion is built using the following technologies:
 ### BACKEND
 
 - *NODE.JS :*
-  Node.js is a server-side runtime environment that allows the execution of JavaScript code outside a web browser. It is based on the V8 JavaScript engine and is designed to build scalable and fast network applications. In StudyNotion, Node.js serves as the foundational technology for the backend, facilitating the server operations, handling HTTP requests, and managing the overall application workflow.
+  Node.js is a server-side runtime environment that allows the execution of JavaScript code outside a web browser. It is based on the V8 JavaScript engine and is designed to build scalable and fast network applications. In ZenCo, Node.js serves as the foundational technology for the backend, facilitating the server operations, handling HTTP requests, and managing the overall application workflow.
 
 - *EXPRESS.JS :*
-  Express.js is a minimal and flexible Node.js web application framework. It provides a robust set of features to build web applications and APIs. In the context of StudyNotion, Express.js simplifies routing, middleware implementation, and handling HTTP requests, allowing for efficient creation and management of backend APIs.
+  Express.js is a minimal and flexible Node.js web application framework. It provides a robust set of features to build web applications and APIs. In the context of ZenCo, Express.js simplifies routing, middleware implementation, and handling HTTP requests, allowing for efficient creation and management of backend APIs.
 
 - *MONGODB :*
-  MongoDB is a popular NoSQL database that uses a flexible and JSON-like document structure. It's well-known for its scalability, flexibility, and high performance. StudyNotion leverages MongoDB to store and manage data efficiently, allowing for easy adaptation to changing data requirements and enabling seamless integration with the application.
+  MongoDB is a popular NoSQL database that uses a flexible and JSON-like document structure. It's well-known for its scalability, flexibility, and high performance. ZenCo leverages MongoDB to store and manage data efficiently, allowing for easy adaptation to changing data requirements and enabling seamless integration with the application.
 
 - *CLOUDINARY :*
-  Cloudinary is a cloud-based media management solution that specializes in the storage, optimization, and delivery of images and videos. In StudyNotion, Cloudinary plays a crucial role in managing all media-related content, including images, videos, and documents. It provides functionalities for uploading, storage, and manipulation of media files, ensuring a reliable and scalable media management system.
+  Cloudinary is a cloud-based media management solution that specializes in the storage, optimization, and delivery of images and videos. In ZenCo, Cloudinary plays a crucial role in managing all media-related content, including images, videos, and documents. It provides functionalities for uploading, storage, and manipulation of media files, ensuring a reliable and scalable media management system.
 
 ## ARCHITECTURE DIAGRAM
 
@@ -367,17 +367,17 @@ StudyNotion is built using the following technologies:
 
 ### FUNCTIONALITIES
 
-The back end of StudyNotion provides a range of features and functionalities, including:
+The back end of ZenCo provides a range of features and functionalities, including:
 
 1. *USER AUTHENTICATION & AUTHORIZATION:* Students and instructors can sign up and log in using email addresses and passwords. The platform supports OTP (One-Time Password) verification and forgot password functionality for enhanced security.
 2. *COURSE MANAGEMENT:* Instructors can create, read, update, and delete courses, manage course content, and media. Students can view and rate courses.
 3. *PAYMENT INTEGRATION:* Students can purchase and enroll in courses by completing the checkout flow that includes Razorpay integration for payment handling.
-4. *CLOUD-BASED MEDIA MANAGEMENT:* StudyNotion utilizes Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+4. *CLOUD-BASED MEDIA MANAGEMENT:* ZenCo utilizes Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 5. *MARKDOWN FORMATTING:* Course content is stored in Markdown format, allowing easier display and rendering on the front end.
 
 ### FRONTEND
 
-The front end of StudyNotion is designed using Figma, a popular design tool that allows for the creation of clean and minimal user interfaces. It comprises various pages for Students, Instructors, and potential Admin functionalities:
+The front end of ZenCo is designed using Figma, a popular design tool that allows for the creation of clean and minimal user interfaces. It comprises various pages for Students, Instructors, and potential Admin functionalities:
 
 #### STUDENT
 
@@ -405,12 +405,12 @@ The front end of StudyNotion is designed using Figma, a popular design tool that
 
 ## CONTRIBUTORS
 
-- Yash Choudhary
-  - GITHUB: [Yash Choudhary](https://github.com/yash52003/EdtechPlatform) 
+- Kiran Reddy
+  - GITHUB: [Kiran Reddy](https://github.com/kiranreddy29/ZenCo) 
 
 ## OPEN SOURCE
 
-We welcome contributions to enhance StudyNotion. Please fork the repository, make your changes, and submit a pull request for review.
+We welcome contributions to enhance ZenCo. Please fork the repository, make your changes, and submit a pull request for review.
 
 ## LICENSE
 
@@ -419,9 +419,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## CONTACT
 
 For any queries or suggestions, feel free to contact the authors:
-- Yash Choudhary: [Email](mailto: yashchoudhary52003@gmail.com)
+- Kiran Reddy: [Email](mailto: kiranreddy2905@gmail.com)
 
 
 ## ACKNOWLEDGEMENT
 
-We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.
+We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop ZenCo.
