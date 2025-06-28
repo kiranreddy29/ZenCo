@@ -73,6 +73,9 @@ exports.createCourse = async (req, res) => {
         message: "Category Details Not Found",
       })
     }
+    // Log the received file and Cloudinary folder
+console.log("🧾 Thumbnail file:", thumbnail);
+console.log("🌥️ Cloudinary folder:", process.env.FOLDER_NAME);
     // Upload the Thumbnail to Cloudinary
     const thumbnailImage = await uploadImageToCloudinary(
       thumbnail,
